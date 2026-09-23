@@ -85,7 +85,20 @@ img {
     object-fit: contain;
     display: block;
 }
+.cv-btn {
+    display: inline-block;
+    background-color: #2e7d32;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-top: 15px;
+}
 
+.cv-btn:hover {
+    background-color: #1b5e20;
+}
 
 .navbar {
 
